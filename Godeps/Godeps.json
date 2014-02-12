@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/zhubert/go-search",
+	"GoVersion": "go1.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/argusdusty/Ferret",
+			"Rev": "94b330b64bf5982fb7f5a03e93685d8ea5688db4"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Rev": "1817ef28a0e76985d513785871920d9f0c3df187"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/martini",
+			"Comment": "v0.1-90-g28ffe5d",
+			"Rev": "28ffe5dab70cdacfc4e555315126eb7c60dabe33"
+		}
+	]
+}
